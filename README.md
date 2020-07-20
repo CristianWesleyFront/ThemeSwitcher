@@ -15,7 +15,7 @@
 
 Referência do projeto [Code/Drops #16](https://www.youtube.com/watch?v=ngVU74daJ8Y) da [RocketSeat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 
-A aplicação é bem simples, com um switch no header, modifica a theme colocor do styled-component através de um contexto.
+A aplicação é bem simples, com um switch no header, modifica a theme color do styled-component através de um contexto.
 
 ---
 
